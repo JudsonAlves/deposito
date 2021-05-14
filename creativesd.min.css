@@ -360,11 +360,11 @@ opacity:.5
 }
 .header
 {
-background:url(../images/bg-header.png) no-repeat;background-size:100%;background-position:center center;height:auto
+background:url(http://painel.ragnadoscria.myrag.com.br/images/bg-header.png) no-repeat;background-size:100%;background-position:center center;height:auto
 }
 .header .logo
 {
-padding:40px 40px 40px 40px ; background:url(../images/bg-header-render.png) no-repeat; background-size:100%;background-position:center top; max-height:auto; max-width:auto
+padding:40px 40px 40px 40px ; background:url(http://painel.ragnadoscria.myrag.com.br/images/bg-header-render.png) no-repeat; background-size:100%;background-position:center top; max-height:auto; max-width:auto
 }
 .sub-content
 {
@@ -512,15 +512,15 @@ display:none
 }
 .home .slider-container li.anim-slide:nth-of-type(1) .content
 {
-background:url(../images/slider/image-01.jpg) 100%/cover
+background:url(http://painel.ragnadoscria.myrag.com.br/images/slider/image-01.jpg) 100%/cover
 }
 .home .slider-container li.anim-slide:nth-of-type(2) .content
 {
-background:url(../images/slider/image-02.jpg) 100%/cover
+background:url(http://painel.ragnadoscria.myrag.com.br/images/slider/image-02.jpg) 100%/cover
 }
 .home .slider-container li.anim-slide:nth-of-type(3) .content
 {
-background:url(../images/slider/image-03.jpg) 100%/cover
+background:url(http://painel.ragnadoscria.myrag.com.br/images/slider/image-03.jpg) 100%/cover
 }
 .home .slider-container li.anim-slide .description
 {
@@ -788,7 +788,7 @@ margin:8px 0;padding:10px 0;height:auto;position:relative;height:100%
 }
 .ranking .content .view .guild-flag
 {
-background:url(../images/guild-flag.png) no-repeat;background-position:top center;text-align:center;height:110px;line-height:80px
+background:url(http://painel.ragnadoscria.myrag.com.br/images/guild-flag.png) no-repeat;background-position:top center;text-align:center;height:110px;line-height:80px
 }
 .ranking .content .view .image .desc
 {
@@ -1104,7 +1104,7 @@ font-weight:400
 }
 .go-top,.go-top:active,.go-top:focus
 {
-z-index:1003;display:none;position:absolute;position:fixed;bottom:2%;right:2%;width:40px;height:40px;color:#fff;text-align:center;line-height:40px;background-attachment:scroll;background:url(../images/scroll-top.png) no-repeat,#5F35AF;background-position:center center;background-size:18px;border-radius:50%;bottom:20px;box-sizing:border-box;color:#fff
+z-index:1003;display:none;position:absolute;position:fixed;bottom:2%;right:2%;width:40px;height:40px;color:#fff;text-align:center;line-height:40px;background-attachment:scroll;background:url(http://painel.ragnadoscria.myrag.com.br/images/scroll-top.png) no-repeat,#5F35AF;background-position:center center;background-size:18px;border-radius:50%;bottom:20px;box-sizing:border-box;color:#fff
 }
 .go-top:hover
 {
@@ -1136,7 +1136,7 @@ color:#E13B50
 }
 #footer .navigation
 {
-background:url(../images/bg-footer.png) no-repeat;background-size:cover cover;background-position:center -240px;height:240px
+background:url(http://painel.ragnadoscria.myrag.com.br/images/bg-footer.png) no-repeat;background-size:cover cover;background-position:center -240px;height:240px
 }
 #footer .contact
 {
@@ -1196,7 +1196,7 @@ color:#E5E5E5
 }
 #footer::after
 {
-content:'';clear:both;position:absolute;width:450px;height:380px;right:5%;bottom:-110px;background:url(../images/bg-footer-render.png) no-repeat;background-position:right bottom
+content:'';clear:both;position:absolute;width:450px;height:380px;right:5%;bottom:-110px;background:url(http://painel.ragnadoscria.myrag.com.br/images/bg-footer-render.png) no-repeat;background-position:right bottom
 }
 .tooltip
 {
@@ -1244,7 +1244,7 @@ height:250px
 }
 .modal-waiting .modal-dialog .loader-logo,.modal-window .modal-dialog .loader-logo,.modal-confirm .modal-dialog .loader-logo,.language-waiting .modal-dialog .loader-logo,.modal-page-error .modal-dialog .loader-logo,.p-waiting .modal-dialog .loader-logo
 {
-width:110px;height:119px;margin:-110px auto;font-size:10px;position:relative;background:url(../images/icon/modal-waiting.png);background-repeat:no-repeat;background-size:110px;background-position:center center
+width:110px;height:119px;margin:-110px auto;font-size:10px;position:relative;background:url(http://painel.ragnadoscria.myrag.com.br/images/icon/modal-waiting.png);background-repeat:no-repeat;background-size:110px;background-position:center center
 }
 .modal-waiting .modal-dialog .message,.modal-window .modal-dialog .message,.modal-confirm .modal-dialog .message,.language-waiting .modal-dialog .message,.modal-page-error .modal-dialog .message,.p-waiting .modal-dialog .message
 {
